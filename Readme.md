@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,50:270082,100:0F0C29&height=200&section=header&text=SWATI%20UPADHYAY&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A40,50:270082,100:0F0C29&height=180&text=SWATI%20UPADHYAY&fontSize=42&fontColor=FFFFFF&fontAlignY=50&desc=B.Tech%20AI%2FML%20Student&descAlignY=75&descSize=18" />
 </p>
 <h3 align="center">Student | New Delhi</h3>
 <br>
@@ -14,8 +14,7 @@ Not chasing a long list of projects right now. Would rather ship one thing prope
 <br>
 
 <br>
-🛠️ Tech Stack
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -32,8 +31,7 @@ Not chasing a long list of projects right now. Would rather ship one thing prope
 <br>
 
 <br>
-🚧 Currently Building
-
+<h2 align="center">🚧 Currently Building</h2>
 TrendSpark – Social Media Content Planner
 
 A planning tool to organize and schedule social media content ideas. Built with HTML, CSS, and JavaScript, using localStorage for data persistence.
@@ -43,8 +41,7 @@ Status: in progress — actively adding features.
 <br>
 
 <br>
-📚 What I'm Learning
-
+<h2 align="center">📚 What I'm Learning</h2>
 
 🔹 Data Structures & Algorithms
 🔹 Full-stack web development
@@ -55,8 +52,7 @@ Status: in progress — actively adding features.
 <br>
 
 <br>
-📈 GitHub Stats
-
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=swatiupadhyay521-blip&show_icons=true&theme=tokyonight" />
 </p>
@@ -66,8 +62,7 @@ Status: in progress — actively adding features.
 <br>
 
 <br>
-🌱 Currently
-
+<h2 align="center">🌱 Currently</h2>
 
 🌱 Learning: DSA in C/C++ | Full-stack basics with JavaScript, HTML/CSS | SQL & database fundamentals
 🤝 Open to collaborate on: Beginner-friendly web projects | Frontend + JS projects | Anything I can learn from by building
@@ -77,8 +72,7 @@ Status: in progress — actively adding features.
 <br>
 
 <br>
-📫 Let's Connect
-
+<h2 align="center">📫 Let's Connect</h2>
 <p align="left">
 <a href="mailto:swatiupadhyay521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/swati-upadhyay-7a49ba352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -89,4 +83,4 @@ Status: in progress — actively adding features.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=swatiupadhyay521-blip&style=for-the-badge&color=1B2845&label=PROFILE+VIEWS" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,50:270082,100:0F0C29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A40,50:270082,100:0F0C29&height=100" />
