@@ -33,12 +33,6 @@ Git and collaborative workflows
 
 
 
-GitHub Stats
-
-Show Image
-Show Image
-
-
 Connect
 
 GitHub · Email:  swatiupadhyay521@gmail.com
